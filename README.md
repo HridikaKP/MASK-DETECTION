@@ -61,7 +61,7 @@ FaceMaskDetection/
 
 
 
-AUTHOR :HRDIKA
+AUTHOR :HRIDIKA
 
 
 
